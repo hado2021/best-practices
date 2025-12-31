@@ -7,7 +7,7 @@ Here’s a clean, **9-layer model** to design real multi-agent workflows — **a
 
 ---
 
-![Agentic Workflow Stack](images/agentic-workflow-stack-1.png)
+![Agentic Workflow Stack](../images/agentic-workflow-stack-1.png)
 
 ## Level 0: Deployment  
 **Where the agents actually live**
